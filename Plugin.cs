@@ -84,17 +84,6 @@ namespace Kill4Heal
             c.g = Instance.Configuration.Instance.plrMsg_g;
             c.b = Instance.Configuration.Instance.plrMsg_b;
             UnturnedChat.Say(player, Translate("msg_playermsg", amount, killed, limbName), c);
-            ConsoleColor c2 = ConsoleColor.White;
-            try
-            {
-                c2 = (ConsoleColor)Enum.Parse(typeof(ConsoleColor), Instance.Configuration.Instance.consoleMsgColor, true);
-                Rocket.Core.Logging.Logger.Log(Translate("msg_consolemsg"), c2);
-            }
-            catch
-            {
-                Rocket.Core.Logging.Logger.Log("[Kill4Heal] Please check your color syntax!");
-                Rocket.Core.Logging.Logger.Log(Translate("msg_consolemsg"), ConsoleColor.Red);
-            }
         }
 
         public new TranslationList DefaultTranslations
@@ -103,7 +92,6 @@ namespace Kill4Heal
             {
                 return new TranslationList(){
                     {"msg_playermsg","You received {0} health for killing {1} in the {2}."},
-                    {"msg_consolemsg","{0} received {1} health for killing {2} in the {3}."},
                     {"spine_name", "spine"},
                     {"arm_name", "arm"},
                     {"leg_name", "leg"},
