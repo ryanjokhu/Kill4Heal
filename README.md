@@ -19,3 +19,4 @@ Kill4Heal is an Unturned plugin that restores a player's health after killing an
     <plrMsg_g>0</plrMsg_g>
     <plrMsg_b>0</plrMsg_b>
 </Configuration>
+```
