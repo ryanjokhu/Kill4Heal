@@ -1,0 +1,13 @@
+C:\Users\jokhu\OneDrive\Desktop\Kill4XP-master\Kill4XP-master\obj\Debug\KillForXP.csproj.AssemblyReference.cache
+C:\Users\jokhu\OneDrive\Desktop\Kill4XP-master\Kill4XP-master\obj\Debug\KillForXP.csproj.CoreCompileInputs.cache
+C:\Users\jokhu\OneDrive\Desktop\Kill4XP-master\Kill4XP-master\bin\Debug\Kill4XP.dll
+C:\Users\jokhu\OneDrive\Desktop\Kill4XP-master\Kill4XP-master\bin\Debug\Kill4XP.pdb
+C:\Users\jokhu\OneDrive\Desktop\Kill4XP-master\Kill4XP-master\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\jokhu\OneDrive\Desktop\Kill4XP-master\Kill4XP-master\bin\Debug\Assembly-CSharp.dll
+C:\Users\jokhu\OneDrive\Desktop\Kill4XP-master\Kill4XP-master\bin\Debug\Rocket.API.dll
+C:\Users\jokhu\OneDrive\Desktop\Kill4XP-master\Kill4XP-master\bin\Debug\Rocket.Core.dll
+C:\Users\jokhu\OneDrive\Desktop\Kill4XP-master\Kill4XP-master\bin\Debug\Rocket.Unturned.dll
+C:\Users\jokhu\OneDrive\Desktop\Kill4XP-master\Kill4XP-master\bin\Debug\UnityEngine.dll
+C:\Users\jokhu\OneDrive\Desktop\Kill4XP-master\Kill4XP-master\obj\Debug\KillForXP.csproj.CopyComplete
+C:\Users\jokhu\OneDrive\Desktop\Kill4XP-master\Kill4XP-master\obj\Debug\Kill4XP.dll
+C:\Users\jokhu\OneDrive\Desktop\Kill4XP-master\Kill4XP-master\obj\Debug\Kill4XP.pdb
